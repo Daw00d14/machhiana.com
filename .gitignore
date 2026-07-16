@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# HTTrack artifacts (already removed, but just in case)
+hts-cache/
+hts-log.txt
+cookies.txt
+backblue.gif
+fade.gif
